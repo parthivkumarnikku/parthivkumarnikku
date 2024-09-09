@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthivkumarnikku&label=Profile%20views&color=0e75b6&style=flat" alt="parthivkumarnikku" /> </p>
 
-[comment]: <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthivkumarnikku" alt="parthivkumarnikku" /></a> </p>
+
 
 - 🔭 I’m currently working on **WIFI - Autoreconnect**
 
