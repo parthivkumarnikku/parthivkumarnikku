@@ -30,9 +30,6 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-Operating_System-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Windows-Operating_System-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
-### **Operating System:**
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux_OS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
-
 ### **Network and Security Tools:**
 [![Nmap](https://img.shields.io/badge/Nmap-Network_Scanner-85C1E9?style=for-the-badge&logo=nmap&logoColor=white)](#)
 [![Netcat](https://img.shields.io/badge/Netcat-Port_Scanner-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)
