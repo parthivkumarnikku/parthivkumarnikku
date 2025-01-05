@@ -1,30 +1,3 @@
-
-<h1 align="center">Hi, I'm Parthiv kumar nikku</h1>
-<h3 align="center">A passionate CyberSecurity Student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthivkumarnikku&label=Profile%20views&color=0e75b6&style=flat" alt="parthivkumarnikku" /> </p>
-
-
-
-- I’m currently working on **Wifi Hacking**
-
-- I’m currently learning **Networking, eploiting, Penetration Testing, TryHackMe**
-
-- I’m looking to collaborate on **CTFs, Coding hackathon, VAPT, DRDO**
-
-- I’m looking for help with [Networking, WiFi(Auto-reconnect) Research](Yet to be posted)
-
-- All of my projects are available at [https://github.com/parthivkumarnikku](https://github.com/parthivkumarnikku)
-
-- My linkedin [https://www.linkedin.com/in/parthiv-kumar-nikku-a9313a25a/](https://www.linkedin.com/in/parthiv-kumar-nikku-a9313a25a/)
-
-- Ask me about **Learning for skills is my only policy i believe in**
-
-- How to reach me **parthivkumarnikku@gmail.com**
-
-- Know about my experiences [https://amritavishwavidyapeetham-my.sharepoint.com/:w:/g/personal/cb_en_u4cys22046_cb_students_amrita_edu/EUS8oUnL_e1IrNHklKlOTO4B9iFh9x8OKgaD8Bqs5jJWcg?e=miIdz8](https://amritavishwavidyapeetham-my.sharepoint.com/:w:/g/personal/cb_en_u4cys22046_cb_students_amrita_edu/EUS8oUnL_e1IrNHklKlOTO4B9iFh9x8OKgaD8Bqs5jJWcg?e=miIdz8)
-
-
 ### **Operating System:**
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-Penetration_Testing-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-Operating_System-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
