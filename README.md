@@ -1,3 +1,16 @@
+# About
+Hi, This is Parthiv Kumar Nikku
+Aspiring cybersecurity professional with a strong foundation in security expertise, coding, and 
+development. Seeking to apply my skills in security engineering, vulnerability assessment, and 
+secure system design while contributing to innovative solutions. 
+## GitHub Stats
+
+![Parthiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthivkumarnikku&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthivkumarnikku&layout=compact&theme=radical)
+
 ### **Operating System:**
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-Penetration_Testing-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-Operating_System-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
