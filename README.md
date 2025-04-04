@@ -1,5 +1,5 @@
 # About
-Hi, This is Parthiv Kumar Nikku
+Hi, This is Parthiv Kumar Nikku @scap3sh4rk
 Aspiring cybersecurity professional with a strong foundation in security expertise, coding, and 
 development. Seeking to apply my skills in security engineering, vulnerability assessment, and 
 secure system design while contributing to innovative solutions. 
@@ -21,9 +21,6 @@ secure system design while contributing to innovative solutions.
 [![Netcat](https://img.shields.io/badge/Netcat-Port_Scanner-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)
 [![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
 [![Aircrack-ng](https://img.shields.io/badge/Aircrack_ng-Wireless_Security-FF4500?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Bettercap](https://img.shields.io/badge/Bettercap-MITM_Tool-9932CC?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Masscan](https://img.shields.io/badge/Masscan-Port_Scanner-6A5ACD?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Hping3](https://img.shields.io/badge/Hping3-Packet_Crafting-00BFFF?style=for-the-badge&logo=linux&logoColor=white)](#)
 
 ### **Web Application Tools:**
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Pentest_Tool-F37626?style=for-the-badge&logo=burpsuite&logoColor=white)](#)
@@ -48,18 +45,13 @@ secure system design while contributing to innovative solutions.
 
 ## Languages and tools 
 [![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-Programming_Language-00599C?style=for-the-badge&logo=R&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-Design_Tool-000000?style=for-the-badge&logo=figma&logoColor=white)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-UI_Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-Markup_Language-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-OS-000000?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![MariaDB](https://img.shields.io/badge/MariaDB-Database-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
-[![MSSQL](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-JavaScript_Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-Language-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
 <h3 align="left">Connect with me:</h3>
